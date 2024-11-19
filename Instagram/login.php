@@ -2,6 +2,7 @@
 require_once "core/init.php";
 require_once "shared/login_handlers.php";
 require "shared/header.php";
+
 ?>
 
     <section class="pageContainer">
